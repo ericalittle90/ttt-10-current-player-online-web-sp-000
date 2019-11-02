@@ -14,5 +14,3 @@ elsif turn_count != % 2
   puts "O"
 end
 end
-
-  
