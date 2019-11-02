@@ -6,3 +6,9 @@ turn += 1
 end
 end
 end
+
+def current_player(board)
+
+
+
+  
